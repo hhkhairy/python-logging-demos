@@ -7,3 +7,5 @@ def some_function():
         time.sleep(1)
 
 some_function()
+if __name__ == "__main__":
+    some_function()
